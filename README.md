@@ -27,6 +27,23 @@ int main() {
 }
 ```
 
+## Using
+
+```bash
+git clone https://github.com/BaseMax/go-lexer-token-simple
+cd go-lexer-token-simple
+go build
+./lex
+```
+
+or using go get:
+
+```bash
+go get github.com/BaseMax/go-lexer-token-simple
+cd /path/to/go-lexer-token-simple
+go build
+./lex
+```
 
 ## My references
 
