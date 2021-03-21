@@ -1,0 +1,11 @@
+# Max Base
+# simple lexer written in GoLang
+# 2021-03-21
+
+int main() {
+	a = 5;
+	b = a + 6;
+	c + 123;
+	5+12;
+	ret c;
+}
