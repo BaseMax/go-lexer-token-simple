@@ -86,7 +86,7 @@ go build
 
 - How `UnreadRune` works? https://golang.org/pkg/bufio/#Reader.UnreadRune
 - Anko: a perfect go-script language made with Go: https://github.com/mattn/anko
-- Lark: a old but funny lexer-interpreter with with Java: https://github.com/munificent/lark/blob/master/src/com/stuffwithstuff/lark/Lexer.java
+- Lark: a old but funny lexer-interpreter made with Java: https://github.com/munificent/lark/blob/master/src/com/stuffwithstuff/lark/Lexer.java
 - How `iota` works in golang? https://yourbasic.org/golang/iota/
 - How write a simple go lexer? https://aaronraff.dev/writing-a-lexer-in-go
 - Why use `iota` in golang? https://medium.com/swlh/iota-create-effective-constants-in-golang-b399f94aac31
