@@ -45,6 +45,11 @@ go build
 ./lex
 ```
 
+## TODO
+
+- Support \r\n
+- Support floating numbers
+
 ## My references
 
 - How `UnreadRune` works? https://golang.org/pkg/bufio/#Reader.UnreadRune
