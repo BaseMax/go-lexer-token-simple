@@ -45,6 +45,38 @@ go build
 ./go-lexer-token-simple
 ```
 
+## Output
+
+```
+5:1	IDENT	int
+5:5	IDENT	main
+5:9	(	
+5:10	)	
+5:12	{	
+6:2	IDENT	a
+6:4	=	
+6:6	INT	5
+6:7	;	
+7:2	IDENT	b
+7:4	=	
+7:6	IDENT	a
+7:8	+	
+7:10	INT	6
+7:11	;	
+8:2	IDENT	c
+8:4	+	
+8:6	INT	123
+8:9	;	
+9:2	INT	5
+9:3	+	
+9:4	INT	12
+9:6	;	
+10:2	RET	
+10:6	IDENT	c
+10:7	;	
+11:1	}	
+```
+
 ## TODO
 
 - Support \r\n
