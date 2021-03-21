@@ -33,7 +33,7 @@ int main() {
 git clone https://github.com/BaseMax/go-lexer-token-simple
 cd go-lexer-token-simple
 go build
-./mylex
+./go-lexer-token-simple
 ```
 
 or using go get:
@@ -42,7 +42,7 @@ or using go get:
 go get github.com/BaseMax/go-lexer-token-simple
 cd /path/to/go-lexer-token-simple
 go build
-./mylex
+./go-lexer-token-simple
 ```
 
 ## TODO
